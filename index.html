@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Xezz - Code snippets / Error information"
+---
+{% for post in site.posts %}
+<div class="span8">
+	<h2>{{ post.title }}</h2>
+	<p>{{ post.excerpt }}</p>
+	<p>
+		<a class="btn" href="{{ post.url }}">View full post »</a>
+	</p>
+</div>
+{% endfor %}
