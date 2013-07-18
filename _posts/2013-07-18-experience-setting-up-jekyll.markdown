@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experience setting up jekyll"
+title:  "Experience setting up Jekyll"
 date:   2013-07-18 22:30:00
 categories: jekyll install
 ---
